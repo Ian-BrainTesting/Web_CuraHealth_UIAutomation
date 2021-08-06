@@ -4,3 +4,7 @@
 /.settings/
 /.classpath
 .svn/
+**/Reports/
+**/*.png
+**/*.jpeg
+**/*.jpg

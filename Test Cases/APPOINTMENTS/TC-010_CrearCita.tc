@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-010_CrearCita</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daadae48-7b28-47d9-a007-34e458c42c4a</testCaseGuid>
+   <variable>
+      <defaultValue>'Seoul CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>d5711077-c0c1-4f4e-8cce-92565c9d6dee</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>fcf5f95e-f3d1-4b67-bdb7-b852dfaa9f11</id>
+      <masked>false</masked>
+      <name>applyHospitalReadmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>237d00ae-a67b-42aa-ae14-eb074e0614c6</id>
+      <masked>false</masked>
+      <name>typeProgram</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61ed6b6e-2433-48fb-8d81-02f6220780cc</id>
+      <masked>false</masked>
+      <name>visitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Revisión de Emergencia'</defaultValue>
+      <description></description>
+      <id>a5072c24-181e-4a26-828d-1131445088fb</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-011_VerificarCitaCreada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f661832-c77b-4fd4-aa4d-af27b68ad057</testCaseGuid>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>650e3a36-36c4-4288-8c53-c86a8df6989a</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>20a14826-1364-486c-b23b-574dbaeb5678</id>
+      <masked>false</masked>
+      <name>applyHospitalReadmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>81220cda-514f-4f97-8e17-3516638261f3</id>
+      <masked>false</masked>
+      <name>typeProgram</name>
+   </variable>
+   <variable>
+      <defaultValue>'29/07/2021'</defaultValue>
+      <description></description>
+      <id>753e7cb8-342a-4754-a203-a0ecf3c99760</id>
+      <masked>false</masked>
+      <name>visitDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'WSV APPOINTMENT'</defaultValue>
+      <description></description>
+      <id>c40a339e-f4b0-426c-b172-6456f8dcface</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
